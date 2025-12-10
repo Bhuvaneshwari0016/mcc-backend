@@ -21,7 +21,7 @@ const server = http.createServer(app);
 // =========================
 const allowedOrigins = [
     'http://localhost:5173',               // local frontend
-    'https://mcc-frontend.onrender.com'   // deployed frontend
+    'https://mcc-frontend-ai.vercel.app/'   // deployed frontend
 ];
 
 // =========================
